@@ -20,7 +20,7 @@ module.exports = {
       {text: 'Android技术面试题', link: 'https://sogrey.github.io/Android_QA/' },
       {text: '前端技术面试题', link: 'https://sogrey.github.io/Web-QA/' },
       {text: '优质博文/公众号文章', link: 'https://sogrey.github.io/blogs/' },	 
-      {text: 'Github', link: 'https://github.com/Sogrey/Web-QA'}      
+      {text: 'Github', link: 'https://github.com/Sogrey/Python-QA.git'}      
     ],
     sidebar: 'auto', // 侧边栏配置
     sidebarDepth: 2  // 侧边栏显示2级
