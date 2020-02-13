@@ -13,9 +13,11 @@ sidebarDepth: 2
 
 
 
-## :file_folder:HTMl
+## :file_folder:Python 基础
 
-### :question: html5有哪些新特性、移除了那些元素？如何处理HTML5新标签的浏览器兼容问题？如何区分 HTML 和 HTML5？[#27](<https://github.com/Sogrey/Web-QA/issues/27>)
+### :question: 导入Python模块的基本方式[#2](<https://github.com/Sogrey/Python-QA/issues/2>)
+### :question: 为导入Python模块指定别名[#3](<https://github.com/Sogrey/Python-QA/issues/3>)
+### :question: 设置Python模块的搜索路径的方式[#4](<https://github.com/Sogrey/Python-QA/issues/4>)
 
 ## :file_folder: 其他面经库/知识库
 
