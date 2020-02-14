@@ -3,7 +3,7 @@ home: true
 heroImage: /images/photo.png
 actionText: 快速上车 →
 actionLink: guide.html
-footer: MIT Licensed | Copyright © 2019 Sogrey
+footer: MIT Licensed | Copyright © 2019-2020 Sogrey
 ---
 
 :tada: :100:
