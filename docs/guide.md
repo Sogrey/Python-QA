@@ -41,9 +41,18 @@ sidebarDepth: 2
 
 ## :file_folder: 其他面经库/知识库
 
-- **前端开发面试题大收集，前端面试集锦 paddingme/Front-end-Web-Development-Interview-Question**
+- **透過問答，了解世界。Python 的世界 `dokelung/Python-QA`**
 
-<div class="github-widget" data-repo="paddingme/Front-end-Web-Development-Interview-Question"></div>
+<div class="github-widget" data-repo="dokelung/Python-QA"></div>
+
+- **stackoverflow上Python相关回答整理翻译 `wklken/stackoverflow-py-top-qa`**
+
+<div class="github-widget" data-repo="wklken/stackoverflow-py-top-qa"></div>
+
+- **Examples and tasks for Python for QA coarse `yrunts/python-for-qa`**
+
+<div class="github-widget" data-repo="yrunts/python-for-qa"></div>
+
 <div><script type="text/javascript" src="https://git.hust.cc/GitHub-Repo-Widget.js/GithubRepoWidget.js"></script></div>
 
 
