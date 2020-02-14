@@ -21,7 +21,7 @@ result_str = result.getvalue()
 print("用逗号连接：",result_str)
 
 #####4：格式化
-s = '<%s> <%s>' % (s1,s2)
+s = '< %s > < %s >' % (s1,s2)
 print('格式化：',s)
 
 #### 5: join
@@ -47,7 +47,7 @@ import sys
 old_stdout = sys.stdout
 result = StringIO()
 sys.stdout = result
-print(s1, True, n,v,sep='*')
+print(s1, True, n,v,sep='*') #
 sys.stdout =old_stdout  # 恢复标准输出
 result_str = result.getvalue()
 print("用逗号连接：",result_str)

@@ -20,7 +20,7 @@ s1 = "1234"
 print(int(s1))
 
 s2 = '1234a'
-#print(int(s2))
+print(int(s2))
 
 if s2.isdigit():
     print(int(s2))
