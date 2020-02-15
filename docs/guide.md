@@ -39,6 +39,27 @@ sidebarDepth: 2
 ### :question: 使用print函数输出字符串时，如何不换行[#23](<https://github.com/Sogrey/Python-QA/issues/23>)
 ### :question: 如何使用print函数格式化输出[#24](<https://github.com/Sogrey/Python-QA/issues/24>)
 
+## :file_folder:Python 列表、元祖和字典
+
+### :question: 在Python中如何定义集合，集合与列表有何区别[#25](<https://github.com/Sogrey/Python-QA/issues/25>)
+### :question: 如何去掉列表、元祖中的重复元素，去重[#26](<https://github.com/Sogrey/Python-QA/issues/26>)
+### :question: 如何向集合中添加和删除元素，需要注意什么[#27](<https://github.com/Sogrey/Python-QA/issues/27>)
+### :question: 如何求集合的并集、交集，集合之间是否还支持其他操作[#28](<https://github.com/Sogrey/Python-QA/issues/28>)
+### :question: 连接两个列表的方式有哪些，这些方式有什么区别[#29](<https://github.com/Sogrey/Python-QA/issues/29>)
+### :question: 编写一个函数（不使用Python模块中的函数），打乱列表元祖的顺序[#30](<https://github.com/Sogrey/Python-QA/issues/30>)
+### :question: 如何对列表元素进行随机排序[#31](<https://github.com/Sogrey/Python-QA/issues/31>)
+### :question: 单星（*）和双星（**）运算符的作用[#32](<https://github.com/Sogrey/Python-QA/issues/32>)
+### :question: 请描述合并列表和字典的方法有哪些[#33](<https://github.com/Sogrey/Python-QA/issues/33>)
+### :question: 如何快速调换字典中的key和value[#34](<https://github.com/Sogrey/Python-QA/issues/34>)
+### :question: 如何循环快速生成一个0到100的列表[#35](<https://github.com/Sogrey/Python-QA/issues/35>)
+### :question: 如何将两个列表或元祖和并成一个字典[#36](<https://github.com/Sogrey/Python-QA/issues/36>)
+### :question: 详细描述列表与元祖的区别[#37](<https://github.com/Sogrey/Python-QA/issues/37>)
+### :question: 列表排序有哪几种方法[#38](<https://github.com/Sogrey/Python-QA/issues/38>)
+### :question: 列表的sort方法与sorted函数都可以对列表排序，有何区别[#39](<https://github.com/Sogrey/Python-QA/issues/39>)
+### :question: 如何倒序排列一个列表[#40](<https://github.com/Sogrey/Python-QA/issues/40>)
+### :question: 如果列表元素是对象如何排序[#41](<https://github.com/Sogrey/Python-QA/issues/41>)
+### :question: del和pop都可以用来删除列表元素，那它们有何区别[#42](<https://github.com/Sogrey/Python-QA/issues/42>)
+
 ## :file_folder: 其他面经库/知识库
 
 - **透過問答，了解世界。Python 的世界 `dokelung/Python-QA`**
