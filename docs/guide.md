@@ -59,6 +59,33 @@ sidebarDepth: 2
 ### :question: 如何倒序排列一个列表[#40](<https://github.com/Sogrey/Python-QA/issues/40>)
 ### :question: 如果列表元素是对象如何排序[#41](<https://github.com/Sogrey/Python-QA/issues/41>)
 ### :question: del和pop都可以用来删除列表元素，那它们有何区别[#42](<https://github.com/Sogrey/Python-QA/issues/42>)
+### :question: 如果列表元素是字典类型，如何利用lambda表达式对列表进行升序降序排列[#43](<https://github.com/Sogrey/Python-QA/issues/43>)
+### :question: 有哪些数据类型不能作为字典的键值[#44](<https://github.com/Sogrey/Python-QA/issues/44>)
+### :question: 为什么列表和字典类型的值不能作为字典键值[#45](<https://github.com/Sogrey/Python-QA/issues/45>)
+### :question: 我们知道使用分片可以获取列表的部分元素，那么如何使用切片获取产生器类型对象中的部分元素呢？[#46](<https://github.com/Sogrey/Python-QA/issues/46>)
+### :question: 如何将[i for i in range(20)] 变成产生器[#47](<https://github.com/Sogrey/Python-QA/issues/47>)
+### :question: Python字典与JSON字符串如何互转[#48](<https://github.com/Sogrey/Python-QA/issues/48>)
+
+## :file_folder:正则表达式
+
+### :question: 在Python语言中有多少种格式化字符串的方法？[#49](<https://github.com/Sogrey/Python-QA/issues/49>)
+### :question: 请解释什么是模板字符串，如何使用？[#50](<https://github.com/Sogrey/Python-QA/issues/50>)
+### :question: 在Python语言中哪种格式化方式可以直接使用变量。[#51](<https://github.com/Sogrey/Python-QA/issues/51>)
+### :question: 请用代码描述如何使用fstring格式化字符串[#52](<https://github.com/Sogrey/Python-QA/issues/52>)
+### :question: 请详细描述Python字符串支持的基本操作。[#53](<https://github.com/Sogrey/Python-QA/issues/53>)
+### :question: 字符串的format方法有几种指定参数的方式。[#54](<https://github.com/Sogrey/Python-QA/issues/54>)
+### :question: 请详细描述字符串的format方法如何格式化字符串。[#55](<https://github.com/Sogrey/Python-QA/issues/55>)
+### :question: 如何让字符串居中显示，有哪些方法[#56](<https://github.com/Sogrey/Python-QA/issues/56>)
+### :question: 请使用center方法让字符串居中显示，两侧显示#号[#57](<https://github.com/Sogrey/Python-QA/issues/57>)
+### :question: 如何将列表中的元素（字符串类型的值）连接在一起（首尾相接）[#58](<https://github.com/Sogrey/Python-QA/issues/58>)
+### :question: 字符串的join方法的作用是什么，使用join应该注意些什么，请举例说明[#59](<https://github.com/Sogrey/Python-QA/issues/59>)
+### :question: 请简要描述Python正则表达式中match函数的作用[#60](<https://github.com/Sogrey/Python-QA/issues/60>)
+### :question: 如果日期的格式是4位年，2位月，2位日（如2012-01-02），如何使用正则表达式判断一个字符串中是否包含这样的日期。[#61](<https://github.com/Sogrey/Python-QA/issues/61>)
+### :question: 请描述Python正则表达式中的match和search的区别[#62](<https://github.com/Sogrey/Python-QA/issues/62>)
+### :question: 如果一个字符串中含有11位的手机号，请使用正则表达式找到第1个出现的手机号，并输出手机号，开始索引和结束索引[#63](<https://github.com/Sogrey/Python-QA/issues/63>)
+### :question: 如何搜索字符串中包含区号和分机号的第一个出现的电话号，并提取电话号中的区号、电话号和分机号[#64](<https://github.com/Sogrey/Python-QA/issues/64>)
+
+
 
 ## :file_folder: 其他面经库/知识库
 
