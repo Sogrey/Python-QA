@@ -84,6 +84,28 @@ sidebarDepth: 2
 ### :question: 请描述Python正则表达式中的match和search的区别[#62](<https://github.com/Sogrey/Python-QA/issues/62>)
 ### :question: 如果一个字符串中含有11位的手机号，请使用正则表达式找到第1个出现的手机号，并输出手机号，开始索引和结束索引[#63](<https://github.com/Sogrey/Python-QA/issues/63>)
 ### :question: 如何搜索字符串中包含区号和分机号的第一个出现的电话号，并提取电话号中的区号、电话号和分机号[#64](<https://github.com/Sogrey/Python-QA/issues/64>)
+### :question: 用正则表达式查找字符串中所有的Email，并输出这些Email。要求，所有的Email域名必须是.com或.net的。而且不区分大小写[#65](<https://github.com/Sogrey/Python-QA/issues/65>)
+### :question: 用正则表达式查找字符串中所有的浮点数，并格式化这些浮点数，保留小数点后2位，最后将格式化后的浮点数替换原来的浮点数，同时输出替换后的结果和替换的次数。要求用一条语句实现[#66](<https://github.com/Sogrey/Python-QA/issues/66>)
+### :question: 提取HTML页面中所有的Url，要求，这些Url都属于a节点的href属性。[#67](<https://github.com/Sogrey/Python-QA/issues/67>)
+
+## :file_folder: 数据存储
+
+### :question: 在files目录有一个products.xml文件，要求读取该文件中products节点的所有子节点的值以及子节点的属性值[#68](<https://github.com/Sogrey/Python-QA/issues/68>)
+### :question: 如何将一个字典转换为XML文档，并将该XML文档保存成文本文件[#69](<https://github.com/Sogrey/Python-QA/issues/69>)
+### :question: 如何读取XML文件的内容，并将其转换为字典[#70](<https://github.com/Sogrey/Python-QA/issues/70>)
+### :question: 如何将一个JSON文档映射为对象[#71](<https://github.com/Sogrey/Python-QA/issues/71>)
+### :question: 将一个对象转换为对应的JSON字符串[#72](<https://github.com/Sogrey/Python-QA/issues/72>)
+### :question: 将对象列表转换为JSON数组[#73](<https://github.com/Sogrey/Python-QA/issues/73>)
+### :question: 如何创建MySQL数据表[#74](<https://github.com/Sogrey/Python-QA/issues/74>)
+### :question: 如何向MySQL表中插入数据[#75](<https://github.com/Sogrey/Python-QA/issues/75>)
+### :question: 如何查询MySQL中的数据[#76](<https://github.com/Sogrey/Python-QA/issues/76>)
+### :question: 如何创建SQLite数据库[#78](<https://github.com/Sogrey/Python-QA/issues/78>)
+### :question: 如何向SQLite表中插入数据[#79](<https://github.com/Sogrey/Python-QA/issues/79>)
+### :question: 如何查询SQLite表中的数据[#80](<https://github.com/Sogrey/Python-QA/issues/80>)
+### :question: 在Python语言中有哪些常用的ORM框架，它们有什么区别[#81](<https://github.com/Sogrey/Python-QA/issues/81>)
+### :question: 如何使用SQLObject框架操作MySQL数据库[#82](<https://github.com/Sogrey/Python-QA/issues/82>)
+### :question: 请解释什么是NoSQL数据库，有哪些类型的NoSQL数据库，请说出这些数据库的典型产品，以及每个类型的NoSQL数据库的适用场景[#83](<https://github.com/Sogrey/Python-QA/issues/83>)
+### :question: 将XML文档保存到MongoDB数据库中，并查询文档中的数据[#84](<https://github.com/Sogrey/Python-QA/issues/84>)
 
 
 
