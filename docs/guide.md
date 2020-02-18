@@ -107,6 +107,20 @@ sidebarDepth: 2
 ### :question: 请解释什么是NoSQL数据库，有哪些类型的NoSQL数据库，请说出这些数据库的典型产品，以及每个类型的NoSQL数据库的适用场景[#83](<https://github.com/Sogrey/Python-QA/issues/83>)
 ### :question: 将XML文档保存到MongoDB数据库中，并查询文档中的数据[#84](<https://github.com/Sogrey/Python-QA/issues/84>)
 
+## :file_folder: 编程、函数、应用
+
+### :question: 如何打开和读取文本文件的内容。[#86](<https://github.com/Sogrey/Python-QA/issues/86>)
+### :question: 使用open函数打开文件，并返回一个IO对象，该对象有3个用于读取文件的方法：read、readline和readlines。请用代码描述这3个方法的区别。[#85](<https://github.com/Sogrey/Python-QA/issues/85>)
+### :question: 在JSON序列化时，可以自动处理哪些数据类型[#87](<https://github.com/Sogrey/Python-QA/issues/87>)
+### :question: 在JSON序列化时，如何处理日期类型[#88](<https://github.com/Sogrey/Python-QA/issues/88>)
+### :question: with语句有什么作用，请用代码解释[#89](<https://github.com/Sogrey/Python-QA/issues/89>)
+### :question: 如何将with语句用于一个自定义类[#90](<https://github.com/Sogrey/Python-QA/issues/90>)
+### :question: 现在有一个文本文件，要求得到该文本文件中出现次数最多的字符，最后输出该字符和出现的次数，空白符除外。[#91](<https://github.com/Sogrey/Python-QA/issues/91>)
+### :question: 请简要描述装饰器的作用[#92](<https://github.com/Sogrey/Python-QA/issues/92>)
+### :question: 如何自定义装饰器[#93](<https://github.com/Sogrey/Python-QA/issues/93>)
+### :question: 如何区分调用的是函数还是方法[#94](<https://github.com/Sogrey/Python-QA/issues/94>)
+
+
 
 
 ## :file_folder: 其他面经库/知识库
