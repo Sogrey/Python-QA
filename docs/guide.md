@@ -119,6 +119,13 @@ sidebarDepth: 2
 ### :question: 请简要描述装饰器的作用[#92](<https://github.com/Sogrey/Python-QA/issues/92>)
 ### :question: 如何自定义装饰器[#93](<https://github.com/Sogrey/Python-QA/issues/93>)
 ### :question: 如何区分调用的是函数还是方法[#94](<https://github.com/Sogrey/Python-QA/issues/94>)
+### :question: 请解释@staticmethod和@classmethod的用法和区别[#95](<https://github.com/Sogrey/Python-QA/issues/95>)
+### :question: 什么是元类，请用代码解释如何使用元类[#96](<https://github.com/Sogrey/Python-QA/issues/96>)
+### :question: 请用代码说明hasattr、getattr和setattr的作用[#97](<https://github.com/Sogrey/Python-QA/issues/97>)
+### :question: 请阐述什么是lambda表达式，并用代码描述lambda表达式的应用场景[#98](<https://github.com/Sogrey/Python-QA/issues/98>)
+### :question: 请描述一下浅拷贝（copy）和深拷贝（deepcopy）的区别，请用代码举例说明如何使用copy和deepcopy[#99](<https://github.com/Sogrey/Python-QA/issues/99>)
+### :question: 编写一个生成器，将二维列表转换为一维列表[#100](<https://github.com/Sogrey/Python-QA/issues/100>)
+### :question: 请编写一个生成器，将任意多维的列表转换为一维列表[#101](<https://github.com/Sogrey/Python-QA/issues/101>)
 
 
 
