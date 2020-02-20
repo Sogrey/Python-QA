@@ -126,8 +126,26 @@ sidebarDepth: 2
 ### :question: 请描述一下浅拷贝（copy）和深拷贝（deepcopy）的区别，请用代码举例说明如何使用copy和deepcopy[#99](<https://github.com/Sogrey/Python-QA/issues/99>)
 ### :question: 编写一个生成器，将二维列表转换为一维列表[#100](<https://github.com/Sogrey/Python-QA/issues/100>)
 ### :question: 请编写一个生成器，将任意多维的列表转换为一维列表[#101](<https://github.com/Sogrey/Python-QA/issues/101>)
+### :question: 如何分别获取当前日期的年月日以及是一年中的第几天[#102](<https://github.com/Sogrey/Python-QA/issues/102>)
+### :question: 用Python创建2个进程，在这两个进程之间如何通信呢？[#103](<https://github.com/Sogrey/Python-QA/issues/103>)
+### :question: 当运行一个线程函数时，如何为该函数传递参数[#104](<https://github.com/Sogrey/Python-QA/issues/104>)
+### :question: 如何创建和使用在线程内部用的全局对象[#105](<https://github.com/Sogrey/Python-QA/issues/105>)
+### :question: 请描述一下什么是协程，请举例说明[#106](<https://github.com/Sogrey/Python-QA/issues/106>)
+### :question: 协程中有哪两个运行任务的函数，如何使用[#107](<https://github.com/Sogrey/Python-QA/issues/107>)
+### :question: 请解释什么是线程锁，举例说明如何使用线程锁。 [#108](<https://github.com/Sogrey/Python-QA/issues/108>)
+### :question: 描述一下什么是信号量，如何使用信号量，请举例说明[#109](<https://github.com/Sogrey/Python-QA/issues/109>)
+### :question: 在urls.txt文件中包含了若干个图像Url，一行一个Url，请使用多线程下载这些图像文件，并按Url出现的顺序保存为0.jpg、1.jpg、2.jpg，以此类推。[#110](<https://github.com/Sogrey/Python-QA/issues/110>)
+### :question: 请用代码描述如何定义异常类、抛出异常类以及捕捉异常类[#111](<https://github.com/Sogrey/Python-QA/issues/111>)
+### :question: Python是否支持多继承，请举例说明[#112](<https://github.com/Sogrey/Python-QA/issues/112>)
+### :question: 如果Python类的多个父类存在相同的成员，按着什么规则处理[#113](<https://github.com/Sogrey/Python-QA/issues/113>)
+### :question: 请通过代码说明try…except…else中的else子句的作用[#114](<https://github.com/Sogrey/Python-QA/issues/114>)
 
+## :file_folder: Python web
 
+### :question: 静态路由和动态路由有什么区别[#115](<https://github.com/Sogrey/Python-QA/issues/115>)
+### :question: 如何使用Flask实现动态路由[#116](<https://github.com/Sogrey/Python-QA/issues/116>)
+### :question: 请解释什么是转发与重定向，它们有什么区别[#117](<https://github.com/Sogrey/Python-QA/issues/117>)
+### :question: 在Flask中如何转发和重定向资源[#118](<https://github.com/Sogrey/Python-QA/issues/118>)
 
 
 ## :file_folder: 其他面经库/知识库
