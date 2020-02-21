@@ -146,7 +146,19 @@ sidebarDepth: 2
 ### :question: 如何使用Flask实现动态路由[#116](<https://github.com/Sogrey/Python-QA/issues/116>)
 ### :question: 请解释什么是转发与重定向，它们有什么区别[#117](<https://github.com/Sogrey/Python-QA/issues/117>)
 ### :question: 在Flask中如何转发和重定向资源[#118](<https://github.com/Sogrey/Python-QA/issues/118>)
+### :question: 如何在Jinja2模板中使用复杂数据，如Python列表[#119](<https://github.com/Sogrey/Python-QA/issues/119>)
+### :question: 如何在Jinja2模板中进行条件控制 [#120](<https://github.com/Sogrey/Python-QA/issues/120>)
+### :question: 请解释Session的概念，以及如何在Django中读写Session [#121](<https://github.com/Sogrey/Python-QA/issues/121>)
+### :question: 如何在Django模板中使用循环指令，请举例说明[#122](<https://github.com/Sogrey/Python-QA/issues/122>)
 
+## :file_folder: Python 爬虫
+
+### :question: 如何使用Beautiful Soup的CSS选择器获取节点信息[#123](<https://github.com/Sogrey/Python-QA/issues/123>)
+### :question: 如何使用Beautiful Soup的节点选择器获取节点信息[#124](<https://github.com/Sogrey/Python-QA/issues/124>)
+### :question: 如何使用requests从网络上下载一个图像文件[#125](<https://github.com/Sogrey/Python-QA/issues/125>)
+### :question: 如果通过selenium控制Web页面，并模拟单击按钮的动作[#126](<https://github.com/Sogrey/Python-QA/issues/126>)
+### :question: 解释什么是伪类选择器，以及如何使用伪类选择器[#127](<https://github.com/Sogrey/Python-QA/issues/127>)
+### :question: 使用自己熟悉的网络库和分析库，实现抓取豆瓣音乐Top250排行榜的数据，并将数据保存在CSV文件中[#128](<https://github.com/Sogrey/Python-QA/issues/128>)
 
 ## :file_folder: 其他面经库/知识库
 
