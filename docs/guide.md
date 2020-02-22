@@ -162,7 +162,7 @@ sidebarDepth: 2
 
 ## :file_folder: 算法
 
-### :question: 可以用2*1的小矩形横着或者竖着去覆盖更大的矩形。请问用n个2*1的小矩形无重叠地覆盖一个2*n的大矩形，总共有多少种覆盖方法？请用递归/非递归的方式实现[#129](<https://github.com/Sogrey/Python-QA/issues/129>)
+### :question: 可以用`2*1`的小矩形横着或者竖着去覆盖更大的矩形。请问用n个`2*1`的小矩形无重叠地覆盖一个2*n的大矩形，总共有多少种覆盖方法？请用递归/非递归的方式实现[#129](<https://github.com/Sogrey/Python-QA/issues/129>)
 ### :question: 有一个整数类型的列表nums ，找出一个序列中乘积最大的连续子序列（该序列至少包含一个数）。[#130](<https://github.com/Sogrey/Python-QA/issues/130>)
 ### :question: 将一个整数转换为二进制形式，统计二进制数中1的个数，如果是负数，按补码统计1的个数。[#131](<https://github.com/Sogrey/Python-QA/issues/131>)
 ### :question: 有一个单向链表，请编写一个函数，将这个单向链表反转，并返回反转后的头节点[#132](<https://github.com/Sogrey/Python-QA/issues/132>)
