@@ -160,6 +160,28 @@ sidebarDepth: 2
 ### :question: 解释什么是伪类选择器，以及如何使用伪类选择器[#127](<https://github.com/Sogrey/Python-QA/issues/127>)
 ### :question: 使用自己熟悉的网络库和分析库，实现抓取豆瓣音乐Top250排行榜的数据，并将数据保存在CSV文件中[#128](<https://github.com/Sogrey/Python-QA/issues/128>)
 
+## :file_folder: 算法
+
+### :question: 可以用2*1的小矩形横着或者竖着去覆盖更大的矩形。请问用n个2*1的小矩形无重叠地覆盖一个2*n的大矩形，总共有多少种覆盖方法？请用递归/非递归的方式实现[#129](<https://github.com/Sogrey/Python-QA/issues/129>)
+### :question: 有一个整数类型的列表nums ，找出一个序列中乘积最大的连续子序列（该序列至少包含一个数）。[#130](<https://github.com/Sogrey/Python-QA/issues/130>)
+### :question: 将一个整数转换为二进制形式，统计二进制数中1的个数，如果是负数，按补码统计1的个数。[#131](<https://github.com/Sogrey/Python-QA/issues/131>)
+### :question: 有一个单向链表，请编写一个函数，将这个单向链表反转，并返回反转后的头节点[#132](<https://github.com/Sogrey/Python-QA/issues/132>)
+### :question: 有一个整数型列表，判断该列表是否为对应二叉搜索树的后序遍历结果[#133](<https://github.com/Sogrey/Python-QA/issues/133>)
+### :question: 有一个数字列表，要找出列表中出现次数超过列表长度一半的数字，如果有2个或2个以上数字出现的次数都超过了列表长度的一半，找出第1个满足条件的数字即可，如果列表元素个数是奇数，列表元素个数的一半取整数部分（四舍五入）。[#134](<https://github.com/Sogrey/Python-QA/issues/134>)
+### :question: 只包含2、3、5中的1个或多个因子的数称为丑数，要求按从小到大的顺序找到第n个丑数[#135](<https://github.com/Sogrey/Python-QA/issues/135>)
+### :question: 让小朋友们围成一个大圈。然后,随机指定一个数m,让编号为0的小朋友开始报数。每次喊到m-1的那个小朋友要出列唱首歌,然后可以在礼品箱中任意的挑选礼物,并且不再回到圈中,从他的下一个小朋友开始，继续0...m-1报数....这样下去....直到剩下最后一个小朋友,可以不用表演[#136](<https://github.com/Sogrey/Python-QA/issues/136>)
+### :question: 给定一个列表和滑动窗口的大小，找出所有滑动窗口里数值的最大值。[#137](<https://github.com/Sogrey/Python-QA/issues/137>)
+### :question: 得到一个整数列表的中位数。[#138](<https://github.com/Sogrey/Python-QA/issues/138>)
+### :question: 在一个链表中，存在重复的结点，请删除该链表中重复的结点，重复的结点只保留一个，最后返回链表头指针。[#139](<https://github.com/Sogrey/Python-QA/issues/139>)
+### :question: 给定一棵二叉搜索树，请找到第k个的节点[#140](<https://github.com/Sogrey/Python-QA/issues/140>)
+### :question: 字符串的循环左移k位[#141](<https://github.com/Sogrey/Python-QA/issues/141>)
+### :question: 求出1~13的整数中1出现的次数，共6次，包含1的整数是1、10、11、12、13。那么如何求出小于等于n的非负整数区间一共包含多少个1呢？[#142](<https://github.com/Sogrey/Python-QA/issues/142>)
+### :question: 输入一棵二叉树和一个整数，打印出二叉树中结点值的和为输入整数的所有路径。路径定义为从树的根结点开始往下一直到叶结点所经过的结点形成一条路径。[#143](<https://github.com/Sogrey/Python-QA/issues/143>)
+### :question: 一只青蛙一次可以跳上1级台阶，也可以跳上2级。求该青蛙跳上一个n级的台阶总共有多少种跳法。[#144](<https://github.com/Sogrey/Python-QA/issues/144>)
+### :question: 使用Python中的海龟作图绘制带绿叶的小树[#145](<https://github.com/Sogrey/Python-QA/issues/145>)
+### :question: 绘制谢尔宾斯基三角形[#146](<https://github.com/Sogrey/Python-QA/issues/146>)
+
+
 ## :file_folder: 其他面经库/知识库
 
 - **透過問答，了解世界。Python 的世界 `dokelung/Python-QA`**
