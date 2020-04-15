@@ -184,6 +184,8 @@ sidebarDepth: 2
 
 ## :file_folder: 其他面经库/知识库
 
+- [Python 入门](http://python.quanduan.com/) [@全端™工作室](http://www.quanduan.com/)
+
 - **透過問答，了解世界。Python 的世界 `dokelung/Python-QA`**
 
 <div class="github-widget" data-repo="dokelung/Python-QA"></div>
